@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: sans-serif;
+    font-style: normal;
+    color: red;
+}
+h2{
+    font-family: sans-serif;
+    font-style: normal;
+    color: yellowgreen;
+}
+h3{
+    font-family: sans-serif;
+    font-style: normal;
+    color: green;
+}
+h4{
+    font-family: sans-serif;
+    font-style: normal;
+    color: red;
+}
+h5{
+    font-family: sans-serif;
+    font-style: normal;
+    color: red;
+}
+h6{
+    font-family: sans-serif;
+    font-style: normal;
+    color: red;
+}
+p{
+    font-family: sans-serif;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+.linkapp{
+    margin-right: 20000000000000000000000000000000000000000000cm;
+}
+.YouTube{
+    background-color: azure;
+}
